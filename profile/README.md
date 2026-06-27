@@ -1,3 +1,4 @@
+![rudite banner](https://raw.githubusercontent.com/rudite-dev/.github/refs/heads/main/assets/image-2.png)
 # Rudite
 
 **Built in Pieces. Run as One.**
